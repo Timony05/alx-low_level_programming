@@ -1,8 +1,8 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * main - print _putchar
- * 8s written by Victoria
+ * is written by Victoria
  * Return: Always 0
  */
 int main(void)
